@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\AssignmentW4\bin\Debug\net6.0\AssignmentW4.exe
+C:\Users\DELL\source\repos\AssignmentW4\bin\Debug\net6.0\AssignmentW4.deps.json
+C:\Users\DELL\source\repos\AssignmentW4\bin\Debug\net6.0\AssignmentW4.runtimeconfig.json
+C:\Users\DELL\source\repos\AssignmentW4\bin\Debug\net6.0\AssignmentW4.dll
+C:\Users\DELL\source\repos\AssignmentW4\bin\Debug\net6.0\AssignmentW4.pdb
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\AssignmentW4.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\AssignmentW4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\AssignmentW4.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\AssignmentW4.AssemblyInfo.cs
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\AssignmentW4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\AssignmentW4.dll
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\refint\AssignmentW4.dll
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\AssignmentW4.pdb
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\AssignmentW4.genruntimeconfig.cache
+C:\Users\DELL\source\repos\AssignmentW4\obj\Debug\net6.0\ref\AssignmentW4.dll
